@@ -1,1 +1,6 @@
-# import module import streamlit as st # Title st.title("Hello !!!")
+import streamlit as st 
+# Set the app title 
+st.title('Welcome ! ') 
+# Add a welcome message 
+
+
